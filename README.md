@@ -4,7 +4,7 @@
 
 **Unabhängiger Entwickler mit Fokus auf intuitive mobile Lösungen und erstklassige User Experience.**
 
-[![Website](https://img.shields.io/badge/Kuhn_Applications-138AEC?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kuhn-applications.web.app)
+[![Website](https://img.shields.io/badge/Kuhn_Applications-138AEC?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kuhn-applications.de)
 [![Mail](https://img.shields.io/badge/E--Mail-101A22?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kuhn.applications@gmail.com)
 
 </div>
@@ -28,11 +28,11 @@
 
 | Projekt | Beschreibung | Stack |
 | --- | --- | --- |
-| 🏅 [**Mein Sportabzeichen**](https://kuhn-applications.web.app/sportabzeichen) | Die intuitive App rund ums Deutsche Sportabzeichen | Flutter · Firebase |
+| 🏅 [**Mein Sportabzeichen**](https://kuhn-applications.de/sportabzeichen) | Die intuitive App rund ums Deutsche Sportabzeichen | Flutter · Firebase |
 | 📊 [**TableCreater**](https://github.com/KuhnFinn/TableCreater) | Tabellen schnell und einfach erstellen | Dart |
 
 ---
 
 <div align="center">
-  <sub>Gebaut mit 💙 und Flutter · <a href="https://kuhn-applications.web.app">kuhn-applications.web.app</a></sub>
+  <sub>Gebaut mit 💙 und Dart · <a href="https://kuhn-applications.de">kuhn-applications.de</a></sub>
 </div>
