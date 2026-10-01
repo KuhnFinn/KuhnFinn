@@ -29,19 +29,7 @@
 | Projekt | Beschreibung | Stack |
 | --- | --- | --- |
 | 🏅 [**Mein Sportabzeichen**](https://kuhn-applications.web.app/sportabzeichen) | Die intuitive App rund ums Deutsche Sportabzeichen | Flutter · Firebase |
-| 💼 [**ai-job-search**](https://github.com/KuhnFinn/ai-job-search) | KI-Framework für die Jobsuche auf deinem eigenen Rechner: Stellen bewerten, CVs anpassen, Anschreiben schreiben | Python · Claude Code |
 | 📊 [**TableCreater**](https://github.com/KuhnFinn/TableCreater) | Tabellen schnell und einfach erstellen | Dart |
-
-### 📈 GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=KuhnFinn&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=101a22&title_color=138aec&icon_color=138aec&text_color=e6edf3" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KuhnFinn&layout=compact&hide_border=true&bg_color=101a22&title_color=138aec&text_color=e6edf3" alt="Top Sprachen" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KuhnFinn&hide_border=true&background=101a22&ring=138aec&fire=138aec&currStreakLabel=138aec&sideLabels=e6edf3&currStreakNum=e6edf3&sideNums=e6edf3&dates=8b949e" alt="GitHub Streak" />
-</div>
 
 ---
 
