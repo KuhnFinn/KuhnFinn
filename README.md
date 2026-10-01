@@ -28,7 +28,7 @@
 
 | Projekt | Beschreibung | Stack |
 | --- | --- | --- |
-| 🏅 [**Mein Sportabzeichen**](https://kuhn-applications.de/sportabzeichen) | Die intuitive App rund ums Deutsche Sportabzeichen | Flutter · Firebase |
+| 🏅 [**Mein Sportabzeichen**](https://kuhn-applications.de/sportabzeichen) <sub>🔒 privat</sub> | Die intuitive App rund ums Deutsche Sportabzeichen | Flutter · Firebase |
 | 🌐 **jaspr_websites** <sub>🔒 privat</sub> | Monorepo für meine Websites wie [kuhn-applications.de](https://kuhn-applications.de), mit eigener UI-Komponentenbibliothek | Jaspr · Dart · Firebase |
 | 🗓️ [**TableCreater**](https://github.com/KuhnFinn/TableCreater) <sub>`Legacy`</sub> | Spielpläne für Turniere und Ligen schnell erstellen – älteres Projekt, wird nicht mehr weiterentwickelt | Flutter · Dart |
 
