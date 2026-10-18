@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Lexend&weight=600&size=30&duration=3500&pause=800&color=138AEC&center=true&vCenter=true&width=600&lines=Hi%2C+ich+bin+Finn+%F0%9F%91%8B;Flutter+%26+Dart+Developer;Ich+baue+Apps+%26+Websites" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Lexend&weight=600&size=30&duration=3500&pause=800&color=138AEC&center=true&vCenter=true&width=600&lines=Hi%2C+ich+bin+Finn+%F0%9F%91%8B;Flutter+%26+Dart+Developer;Macher+von+Mein+Sportabzeichen" alt="Typing SVG" />
 
 **Unabhängiger Entwickler mit Fokus auf intuitive mobile Lösungen und erstklassige User Experience.**
 
