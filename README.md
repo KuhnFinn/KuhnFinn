@@ -21,7 +21,8 @@
 ### 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,python,firebase,androidstudio,vscode,git,github,linux&theme=dark" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,vscode,git,github,obsidian&theme=dark" alt="Tech Stack" />
+  <img src="https://cdn.simpleicons.org/claude/D97757" height="48" alt="Claude" title="Claude" />
 </p>
 
 ### 📌 Projekte
