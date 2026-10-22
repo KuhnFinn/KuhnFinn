@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Lexend&weight=600&size=30&duration=3500&pause=800&color=138AEC&center=true&vCenter=true&width=600&lines=Hi%2C+ich+bin+Finn+%F0%9F%91%8B;Flutter+%26+Dart+Developer;Gr%C3%BCnder+von+Kuhn+Applications" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Lexend&weight=600&size=30&duration=3500&pause=800&color=138AEC&center=true&vCenter=true&width=600&lines=Hi%2C+ich+bin+Finn+%F0%9F%91%8B;Flutter+%26+Dart+Developer;Macher+von+Mein+Sportabzeichen" alt="Typing SVG" />
 
 **Unabhängiger Entwickler mit Fokus auf intuitive mobile Lösungen und erstklassige User Experience.**
 
@@ -21,15 +21,16 @@
 ### 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,python,firebase,androidstudio,vscode,git,github,linux&theme=dark" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,vscode,git,github,obsidian&theme=dark" alt="Tech Stack" />
+  <img src="https://cdn.simpleicons.org/claude/D97757" height="48" alt="Claude" title="Claude" />
 </p>
 
 ### 📌 Projekte
 
 | Projekt | Beschreibung | Stack |
 | --- | --- | --- |
-| 🏅 [**Mein Sportabzeichen**](https://kuhn-applications.de/sportabzeichen) <sub>🔒 privat</sub> | Die intuitive App rund ums Deutsche Sportabzeichen | Flutter · Firebase |
-| 🌐 **jaspr_websites** <sub>🔒 privat</sub> | Monorepo für meine Websites wie [kuhn-applications.de](https://kuhn-applications.de), mit eigener UI-Komponentenbibliothek | Jaspr · Dart · Firebase |
+| 🏅 [**Mein Sportabzeichen**](https://kuhn-applications.de/sportabzeichen) <sub>🔒 privat</sub> | Die intuitive App rund ums Deutsche Sportabzeichen | Flutter · Riverpod · go_router · AdMob · Google Play |
+| 🌐 **jaspr_websites** <sub>🔒 privat</sub> | Monorepo für meine Websites wie [kuhn-applications.de](https://kuhn-applications.de), mit eigener UI-Komponentenbibliothek | Jaspr · Dart · Tailwind · Firebase Hosting |
 | 🗓️ [**TableCreater**](https://github.com/KuhnFinn/TableCreater) <sub>`Legacy`</sub> | Spielpläne für Turniere und Ligen schnell erstellen – älteres Projekt, wird nicht mehr weiterentwickelt | Flutter · Dart |
 
 ---
